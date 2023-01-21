@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mandy-shr
 - 👀 I’m interested in full stack developing skills
-- 🌱 I’m currently learning python & Django framework
 - 📫 How to reach me : Linkedin -https://www.linkedin.com/in/monoswini-dey-b15431200/
 
 <!---
