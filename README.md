@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently researching on **microcontrollers**
 
-- 🌱 I’m currently learning **React, Django, C++**
+- 🌱 I’m currently learning **React, Tensorflow**
 
 - 👯 I’m looking to collaborate on **various open source projects**
 
