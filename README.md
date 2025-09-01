@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monoswini</h1>
-<h3 align="center">A passionate fullstack developer with a zeal for startups</h3>
+<h3 align="center">A passionate Electronics Engineer with a zeal for startups</h3>
 
 - 🔭 I’m currently researching on **microcontrollers and electric vehicles**
 
