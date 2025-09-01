@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Monoswini</h1>
 <h3 align="center">A passionate fullstack developer with a zeal for startups</h3>
 
-- 🔭 I’m currently researching on **microcontrollers**
+- 🔭 I’m currently researching on **microcontrollers and electric vehicles**
 
-- 🌱 I’m currently learning **React, Tensorflow**
+- 🌱 I’m currently learning **VLSI & Embedded System**
 
 - 👯 I’m looking to collaborate on **various open source projects**
 
